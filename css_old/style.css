@@ -1,0 +1,61 @@
+/**
+* Template Name: Shuffle - v2.0.0
+* Template URL: https://bootstrapmade.com/bootstrap-3-one-page-template-free-shuffle/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+.card-small {
+	min-height: 37px;
+	padding: 0 12px;
+	font-size: 14px;
+}
+@media print {
+	#imprimir {
+		position: absolute;
+		z-index: 15;
+		margin: 0 0 0 10%;
+	}
+}
+
+.logo {
+	position: absolute;
+	left: 50%;
+	padding: 10px 20px;
+	border-radius: 5px;
+	box-shadow: 0 0 15px 0 rgba(0, 0, 0, .12);
+	background: #fff;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	top: 70px;
+	z-index: 9999;
+}
+.logo img {
+	display: block;
+	width: 174px;
+	max-width: none;
+}
+.login_microsoft {
+}
+.rotar {
+	transform: rotate(270deg);
+}
+
+
+hr.solid {
+   border-top: 2px solid #999;
+}
+
+.select-govco .bootstrap-select .dropdown-menu.show ul.show, .select-govco--error .bootstrap-select .dropdown-menu.show ul.show, .select-govco--inactive .bootstrap-select .dropdown-menu.show ul.show, .select-govco-filter .bootstrap-select .dropdown-menu.show ul.show{
+	max-height:250px!important;
+}
+
+/* Validation */
+label.error {
+	color: #cc5965!important;
+	display: inline-block;
+	margin-left: 5px;
+}

@@ -1,0 +1,292 @@
+/*
+Autor:   
+Software: 
+Versión: 1.0:
+Tipo de proyecto: 
+Todos los derechos reservados 2020
+Institución: Corporación universitaria de ciencia y desarrollo Uniciencia
+*/
+
+/**Estilos del reloj de la caja de sesion**/
+#reloj{
+  font-family: 'cambria';
+  font-size:9.5px;
+  color:#fff; 
+  text-align:center;
+}
+
+/**Estilos para los botones de comando ocultos**/
+#BotonOculto{
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  padding-left:0px !important;
+}
+
+#reporteExcel{
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  padding-left:0px !important;
+}
+
+/**Estilos para los botones de comando ocultos en la grilla de control**/
+#BotonOcultoGrilla{
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  font-weight: bold;
+}
+
+/**Estilos para los botones de comando ocultos del menu**/
+#BotonMAP{
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  padding-left:0px !important;
+}
+
+#BotonAPG{
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  padding-left:0px !important;
+}
+
+#BotonGRU{
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  padding-left:0px !important;
+}
+
+#BotonCerrarSesion{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+#BotonCerrarSesion:hover{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+#BotonCEM{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+#BotonCEM:hover{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+#BotonGDB{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #c2c7d0;
+}
+
+#BotonGDB:hover{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+#BotonNAC{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color:#FFFFFF;
+
+}
+
+#BotonNAC:hover{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+#BotonADP{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+#BotonADP:hover{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+#BotonMOD{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+#BotonMOD:hover{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+#BotonADD{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #c2c7d0;
+}
+
+#BotonADD:hover{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+#BotonADE{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #c2c7d0;
+}
+
+#BotonADE:hover{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+#BotonCUS{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #c2c7d0;
+}
+
+#BotonCUS:hover{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+#BotonCNF{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #c2c7d0;
+}
+
+#BotonCNF:hover{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+#BotonPER{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color:#FFFFFF;
+
+}
+
+#BotonPER:hover{
+  padding-left: 0px !important;
+  border-radius: none;
+  background-color: transparent;
+  border-color: transparent;
+  text-align: left;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+
+.swal2-container.swal2-shown {
+    background-color: #00488432!important;
+}

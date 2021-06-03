@@ -1,0 +1,25 @@
+{
+   "Guest" : {
+      "denied" : {},
+      "Home" : ["*"],
+      "Personas" : ["*"],
+      "Ica" : ["*"],
+      "UsuariosRica" : ["*"],
+      "Admin" : ["*"],
+      "Restricted" : ["*"]
+   },
+
+   "LoggedIn" : {
+      "Home":["*"],
+      "denied" : {
+         "Users" : ["login"]
+      },
+      "Users" : ["logout"]
+   },
+
+   "ADMIN":{
+      "denied":{},
+      "Users" : ["*"],
+      "Registro" : ["*"]
+   }
+}
